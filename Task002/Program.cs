@@ -12,3 +12,17 @@
             // Вывод результатов
             Console.WriteLine($"max = {max}");
             Console.WriteLine($"min = {min}");
+
+
+           // Решение без помощи класса Math
+            int max2 = 0;
+            int min2 = 0;
+            if (a>b) {
+            max2 = a ; 
+            min2 = b;
+            }else{ 
+            max2 = b ; 
+            min2 = a;
+            }
+            Console.WriteLine($"max = {max2}");
+            Console.WriteLine($"min = {min2}");

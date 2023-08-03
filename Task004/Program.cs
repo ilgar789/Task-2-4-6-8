@@ -15,3 +15,9 @@
 
             // Вывод результата
             Console.WriteLine($"Максимальное число: {max}");
+
+            // Решение без помощи класса Math
+            int max2 = num1;
+            if(max2<num2) max2 = num2;
+            if(max2<num3) max2 = num3;
+            Console.WriteLine($"Максимальное число: {max2}");
