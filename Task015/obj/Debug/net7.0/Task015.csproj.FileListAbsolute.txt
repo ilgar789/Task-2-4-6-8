@@ -1,0 +1,15 @@
+C:\Users\99455\Desktop\Tasks\Task015\bin\Debug\net7.0\Task015.exe
+C:\Users\99455\Desktop\Tasks\Task015\bin\Debug\net7.0\Task015.deps.json
+C:\Users\99455\Desktop\Tasks\Task015\bin\Debug\net7.0\Task015.runtimeconfig.json
+C:\Users\99455\Desktop\Tasks\Task015\bin\Debug\net7.0\Task015.dll
+C:\Users\99455\Desktop\Tasks\Task015\bin\Debug\net7.0\Task015.pdb
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\Task015.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\Task015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\Task015.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\Task015.AssemblyInfo.cs
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\Task015.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\Task015.dll
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\refint\Task015.dll
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\Task015.pdb
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\Task015.genruntimeconfig.cache
+C:\Users\99455\Desktop\Tasks\Task015\obj\Debug\net7.0\ref\Task015.dll
